@@ -1,6 +1,6 @@
 # sesigo
 
-A new Flutter application.
+Motshelo Savings Manager
 
 ## Getting Started
 
